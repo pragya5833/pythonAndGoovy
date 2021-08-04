@@ -1,0 +1,5 @@
+i see
+this is
+written as
+list
+with writelines
